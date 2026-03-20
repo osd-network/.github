@@ -1,4 +1,4 @@
-## About 📚
+## Summary
 
 This organisation provides repositories with resources for all degrees of knowledge. 
 
