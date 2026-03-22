@@ -1,18 +1,8 @@
-![alt banner](./banner_1.png)
+alt banner
 
 ## Summary
 
-This organisation provides repositories with resources for all degrees of knowledge. It is the purpose of the repositories of this organisation to provide all resources needed to complete degrees and specific education systems. We base our data on the law of each country we are trying to model, providing an open-source network of accurate knowledge. 
+This organisation provides repositories containing resources for all levels of knowledge. The purpose of these repositories is to offer the materials needed to support various degrees and educational systems. Our data is based on the legal frameworks of the countries we model, creating an open-source network of reliable and accurate knowledge. We continuously review the legislation that defines academic degrees, scientific progress, course durations, and curricular content to ensure our resources reflect current educational standards. The objective is not to create a new university, but a network of all degrees and educational systems.
 
+[https://github.com/osd-network](https://github.com/osd-network)
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
