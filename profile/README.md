@@ -2,7 +2,9 @@
 
 ## Summary
 
-This organisation provides repositories with resources for all degrees of knowledge. 
+This organisation provides repositories with resources for all degrees of knowledge. It is the purpose of the repositories of this organisation to provide all resources needed to complete degrees and specific education systems. We base our data on the law of each country we are trying to model, providing an open-source network of accurate knowledge. 
+
+
 
 <!--
 
